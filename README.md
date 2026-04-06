@@ -3,6 +3,9 @@
 A modern, responsive personal portfolio website built to present my skills, projects, and professional background.  
 The design focuses on clarity, accessibility, and smooth user experience across all devices.
 
+### ⭐ Live Demo - visit my website 
+https://meiscorp.github.io/MY_Portfolio-/
+
 ## 🚀 Features
 
 - **Responsive layout** — fully optimized for desktop, tablet, and mobile  
@@ -53,8 +56,6 @@ If you'd like to reach out, feel free to use the contact form on the website or 
 
 ---
 
-### ⭐ Live Demo  
-*(Add your link here once deployed)*
 
 ### ⭐ License  
 This project is open for viewing and inspiration, but not for commercial reuse.
